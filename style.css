@@ -86,8 +86,7 @@ h1 {
   background-color: #c82333;
 }
 
-/* Adições para tornar o jogo responsivo */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   #board {
     max-width: 100%;
   }
