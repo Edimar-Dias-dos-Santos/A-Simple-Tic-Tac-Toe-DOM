@@ -38,7 +38,7 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Game Link
 
-You can access the game [here](https://edimar-dias-dos-santos.github.io/Tic-Tac-Toe-DOM/).
+You can access the game [here](https://edimar-dias-dos-santos.github.io/A-Simple-Tic-Tac-Toe-DOM/).
 
 ## License
 
