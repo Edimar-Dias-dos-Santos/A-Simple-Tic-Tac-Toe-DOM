@@ -6,6 +6,9 @@ A simple Tic Tac Toe game developed by Edimar Dias Santos.
 
 This is a Tic Tac Toe game where you play against the computer. The objective is to get three of your symbols in a row, column, or diagonal.
 
+![image](https://github.com/Edimar-Dias-dos-Santos/A-Simple-Tic-Tac-Toe-DOM/assets/97312864/5553a654-1577-459f-ba7c-0375980771ff)
+
+
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
